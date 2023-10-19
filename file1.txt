@@ -1,1 +1,2 @@
 hello git
+Have a good time git hash-object file1.txt!
